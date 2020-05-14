@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Comment
+
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
